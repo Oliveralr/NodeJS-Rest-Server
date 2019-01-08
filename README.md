@@ -5,6 +5,7 @@
 
 1. Run ```npm init```
 2. Enter command: ```node server```
-3. Writting Instructions...:umbrella:
+3. Please Install all required and needed libraries and modules.
+4. Writting Instructions...:umbrella:
 
 *With :heart: for GitHub Community:octocat:.
