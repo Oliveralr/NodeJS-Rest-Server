@@ -5,6 +5,8 @@
 
 1. Run ```npm init```
 2. Enter command: ```node server```
-3. Writting Instructions...:umbrella:
+3. I use _GET, _POST, _PUT and _DELETE methods.
+4. Connect Front-End Response Methods :umbrella:
+5. You can test it using Method Request Services like Postman
 
 *With :heart: for GitHub Community:octocat:.
