@@ -5,7 +5,7 @@
 
 1. Run ```npm init```
 2. Enter command: ```node server```
-3. I use _GET, _POST, _PUT and _DELETE methods.
+3. I use _GET_, _POST_, _PUT_ and _DELETE_ methods.
 4. Connect Front-End Response Methods :umbrella:
 5. You can test it using Method Request Services like Postman
 
