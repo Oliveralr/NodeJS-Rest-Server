@@ -2,6 +2,7 @@
 ## Practical Rest Excercise with Node.JS
 
 ### You Must Have Node.JS and npm/yarn in your computer :rage3:
+:bee::bee::bee:
 
 1. Run ```npm init```
 2. Enter command: ```node server```
