@@ -1,4 +1,4 @@
-# Node REST Server :godmode:
+# Node REST Server 
 ## Practical Rest Excercise with Node.JS
 
 ### You Must Have Node.JS and npm/yarn in your computer :rage3:
@@ -11,6 +11,7 @@
 5. You can test it using Method Request Services like Postman
 6. Please install MongoDB for a best model interaction :computer: 
 
+(*6)OR:
 **I set a Mongo DB Cloud Based to try the methods**
 Cloud DB: https://mlab.com 
 
